@@ -7,12 +7,12 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/ap2134',
   openTo: 'Open to Senior Developer, Tech Lead, and Full-Stack .NET roles in Ontario.',
   about: [
-    'Senior .NET Developer with 8+ years of experience designing and building back-office platforms, POS systems, and enterprise web applications across Canada and India.',
+    'Senior .NET Developer with 9+ years of experience designing and building back-office platforms, POS systems, and enterprise web applications across Canada and India.',
     'At Diamond Game Enterprises I lead full-stack development of mission-critical gaming and kiosk platforms used across multiple provinces. I have worked across the full lifecycle, from requirements and system design to deployment and production support.',
     'I have also led cross-functional teams and managed stakeholder communication in contract project management roles. Currently learning my way around LLMs and Gen AI.',
   ],
   stats: [
-    { label: 'Years Experience', value: 8, suffix: '+' },
+    { label: 'Years Experience', value: 9, suffix: '+' },
     { label: 'Companies', value: 3, suffix: '' },
     { label: 'Internships', value: 3, suffix: '' },
     { label: 'Contracts', value: 2, suffix: '' },
@@ -128,7 +128,7 @@ export const profile = {
       period: 'May 2019 - Aug 2019',
       location: 'Bangalore',
       points: [
-        'Delivered development and maintenance for financial risk reporting and technical cost systems (Capgemini) and the CAPTO platform (Infosys).',
+        'Delivered development and maintenance for traninig app for BHEL.',
         'Managed a team of 2-4 engineers: stand-ups, task assignment, code review.',
         'Translated client requirements into technical specs; maintained SQL Server databases and ran root cause analysis on incidents.',
       ],
